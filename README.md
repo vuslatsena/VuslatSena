@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <h3 align="center">A Computer Engineering Student from Ankara/Turkey</h3>
 
 
-⚡ #Sharing updates on [Linkedin](https://www.linkedin.com/in/vuslat-sena-emre/)! 
+- ⚡ #Sharing updates on [Linkedin](https://www.linkedin.com/in/vuslat-sena-emre/)! 
 
-✍🏻 #My blogs on [Medium](https://medium.com/@aeternitas)!
+- ✍🏻 #My blogs on [Medium](https://medium.com/@aeternitas)!
 
-🌱 I’m currently learning React.js, Javascript etc.
+- 🌱 I’m currently learning React.js, Javascript etc.
 
 - 🔭 I’m currently working on mobile application development and front-end development with reactjs
