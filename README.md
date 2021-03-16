@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Vuslat Sena</h1>
 <h3 align="center">A Computer Engineering Student from Ankara/Turkey</h3>
 
+<img src="![image](https://user-images.githubusercontent.com/47564075/111305944-a81b1500-8668-11eb-92c3-6ade19758881.png)" class="center">
 
 
-<img align="center">![image](https://user-images.githubusercontent.com/47564075/111305944-a81b1500-8668-11eb-92c3-6ade19758881.png)</img> 
 
 
 
