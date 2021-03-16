@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<align="center">![image](https://user-images.githubusercontent.com/47564075/111305944-a81b1500-8668-11eb-92c3-6ade19758881.png)</>
+![image](https://user-images.githubusercontent.com/47564075/111305944-a81b1500-8668-11eb-92c3-6ade19758881.png)
 
 
 
