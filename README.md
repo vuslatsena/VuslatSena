@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+A Computer Engineering Student from Ankara/Turkey
+
+
+🌱 I’m currently learning React.js, Javascript etc.
+
 ⚡ #Sharing updates on [Linkedin](https://www.linkedin.com/in/vuslat-sena-emre/)! 
+
 ✍🏻 #My blogs on [Medium](https://medium.com/@aeternitas)!
