@@ -1,5 +1,3 @@
-### Hi there 👋, I'm Vuslat Sena
-
 <!--
 **VuslatSena/VuslatSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<h1 align="center">Hi there 👋, I'm Vuslat Sena</h1>
 <h3 align="center">A Computer Engineering Student from Ankara/Turkey</h3>
 
 🌱 I’m currently learning React.js, Javascript etc.
