@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A Computer Engineering Student from Ankara/Turkey
 
+
+<h3 align="center">A Computer Engineering Student from Ankara/Turkey</h3>
 
 🌱 I’m currently learning React.js, Javascript etc.
 
