@@ -2,6 +2,8 @@
 
 <!--
 **VuslatSena/VuslatSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✍🏻 # My blogs on [Medium](https://medium.com/@aeternitas) !
+⚡ # Sharing updates on LinkedIn ! 
 
 Here are some ideas to get you started:
 
