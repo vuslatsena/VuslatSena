@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋, I'm Vuslat Sena</h1>
-<h3 align="center">A Computer Engineering Student from Ankara/Turkey</h3>
+<h3 align="center">✨A Computer Engineering Student from Ankara/Turkey✨</h3>
 
 
+<img src="https://user-images.githubusercontent.com/47564075/111305944-a81b1500-8668-11eb-92c3-6ade19758881.png" alt="Paris" class="center">
 
-<img src="https://user-images.githubusercontent.com/47564075/111305944-a81b1500-8668-11eb-92c3-6ade19758881.png" alt="Space" class="center">
 
 - ⚡ #Sharing updates on [Linkedin](https://www.linkedin.com/in/vuslat-sena-emre/)! 
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React.js, Javascript etc.
 
-- 🔭 I’m currently working on mobile application development and front-end development with reactjs
+- 🔭 I’m currently working on mobile application development with java and front-end development with reactjs
