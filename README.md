@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Vuslat Sena</h1>
 <h3 align="center">✨A Computer Engineering Student from Ankara/Turkey✨</h3>
 
+<div style="border: 1px solid black;">
+<img class="center" src ="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif">
+</div>
 
-<img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" alt="Paris" class="center">
 
 
 - ⚡ #Sharing updates on [Linkedin](https://www.linkedin.com/in/vuslat-sena-emre/)! 
