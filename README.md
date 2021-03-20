@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/47564075/111305944-a81b1500-8668-11eb-92c3-6ade19758881.png" alt="Space" class="center">
 
-
-
-
-
-
 - ⚡ #Sharing updates on [Linkedin](https://www.linkedin.com/in/vuslat-sena-emre/)! 
 
 - ✍🏻 #My blogs on [Medium](https://medium.com/@aeternitas)!
