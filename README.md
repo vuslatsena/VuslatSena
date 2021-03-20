@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">✨A Computer Engineering Student from Ankara/Turkey✨</h3>
 
 
-<img src="https://user-images.githubusercontent.com/47564075/111305944-a81b1500-8668-11eb-92c3-6ade19758881.png" alt="Paris" class="center">
+<img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" alt="Paris" class="center">
 
 
 - ⚡ #Sharing updates on [Linkedin](https://www.linkedin.com/in/vuslat-sena-emre/)! 
