@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm Vuslat Sena</h1>
 <h3 align="center">✨A Computer Engineering Student from Ankara/Turkey✨</h3>
-<p style="text-align:center; "><img src="file:///C:/Users/asus/Desktop/Codethink-Software-Engineering-Open-Source-Experts.jpg"></p>
+
+
+![Codethink-Software-Engineering-Open-Source-Experts](https://user-images.githubusercontent.com/47564075/111882362-33c4d680-89c6-11eb-8eb1-161ceccfa106.jpg)
+
 
 - ⚡ #Sharing updates on [Linkedin](https://www.linkedin.com/in/vuslat-sena-emre/)! 
 
