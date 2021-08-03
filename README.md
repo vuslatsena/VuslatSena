@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning React.js, Javascript etc.
 
-🔭 I’m currently working on mobile application development with java and front-end development with reactjs
+🔭 I’m currently working on front-end development with reactjs
 
 💻 All of my projects are available at https://github.com/VuslatSena 
 
