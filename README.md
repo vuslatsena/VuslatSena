@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 ![Codethink-Software-Engineering-Open-Source-Experts](https://user-images.githubusercontent.com/47564075/111882362-33c4d680-89c6-11eb-8eb1-161ceccfa106.jpg)
 
-🌱 I’m currently learning React.js, Javascript etc.
-
-🔭 I’m currently working on front-end development with reactjs
+🌱 I’m currently learning Javascript mostly React Framework and workin 10-min delivery pioneer company called Getir 
 
 💻 All of my projects are available at https://github.com/VuslatSena 
 
