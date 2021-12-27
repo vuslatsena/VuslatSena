@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm Vuslat Sena</h1>
+<h1 align="center">Hi there 👋, I'm Vuslat</h1>
 <h3 align="center">✨ Software Developer ✨</h3>
 
 
