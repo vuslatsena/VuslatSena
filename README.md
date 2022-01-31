@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 
-![Codethink-Software-Engineering-Open-Source-Experts](https://user-images.githubusercontent.com/47564075/111882362-33c4d680-89c6-11eb-8eb1-161ceccfa106.jpg)
+![Codethink-Software-Engineering-Open-Source-Experts](![image](https://user-images.githubusercontent.com/47564075/151814500-f716191e-36e2-425e-89d1-769cc2f68cd9.png))
 
 
 
