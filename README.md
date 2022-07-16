@@ -17,6 +17,10 @@ I am a full time front-end developer trying to learn end-to-end with team work a
 approach to solving problems, open to new opportunities.
 
 
+- 👩🏽‍💻I’m currently working with ReactJS and anything related with JavaScript
+- 📫 How to reach me: vuslatsena23@gmail.com
+- 🎧 my podcast about life, journey and whatever i want to talk : https://open.spotify.com/show/4hIHpJ60z9E1hmIuOPvKvH?si=88ecae0f3b0d40c5 
+
 ### 👩🏽‍💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
