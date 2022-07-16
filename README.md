@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 -->
 <h2> Hello, I'm Vuslat 🙌🏼</h2>
 
+I am a full time front-end developer trying to learn end-to-end with team work and leadership skills as well as an interdisciplinary
+approach to solving problems, open to new opportunities.
+
 
 ### 👩🏽‍💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
