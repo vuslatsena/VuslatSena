@@ -19,6 +19,7 @@ approach to solving problems, open to new opportunities.
 
 - 👩🏽‍💻I’m currently working with ReactJS and anything related with JavaScript
 - 📫 How to reach me: vuslatsena23@gmail.com
+- ✍🏼 blog and my journey https://medium.com/@vuslats
 - 🎧 my podcast about life, journey and whatever i want to talk : https://open.spotify.com/show/4hIHpJ60z9E1hmIuOPvKvH?si=88ecae0f3b0d40c5 
 
 ### 👩🏽‍💻 Tech Stack
