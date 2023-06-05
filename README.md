@@ -23,7 +23,7 @@ I am a front-end developer with a passion for creating engaging web experiences 
 
 - [Weather App](https://github.com/vuslatsena/patika.dev-fmss-practicum-week3.1): This is a Weather App project using Context API Assignment with Weather API.
 - [Star Wars Starships](https://github.com/vuslatsena/patika.dev-fmss-practicum-final-case): This project presents a list of spaceships from the Star Wars series using SWAP API
-- [Digital Library](https://github.com/vuslatsena/digital-library): This is develop a service that allows users to search for books by title or author by using the Google Books API or any other API.
+- [Digital Library](https://github.com/vuslatsena/digital-library): This is develop a service that allows users to search for books by title or author by using the Google Books API.
 - [Todo App](https://github.com/vuslatsena/react-todo-list-app): This is a 2021 project for hiring internship.
 
 
