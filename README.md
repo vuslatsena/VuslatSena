@@ -18,9 +18,10 @@ approach to solving problems, open to new opportunities.
 
 
 - 👩🏽‍💻I’m currently working with ReactJS and anything related with JavaScript
-- 📫 How to reach me: vuslatsena23@gmail.com
-- ✍🏼 blog and my journey https://medium.com/@vuslats
-- 🎧 my podcast about life, journey and whatever i want to talk : https://open.spotify.com/show/4hIHpJ60z9E1hmIuOPvKvH?si=88ecae0f3b0d40c5 
+- 📫 How to reach me : vuslatsena23@gmail.com
+- ✍🏼 blog and my journey :  https://medium.com/@vuslatsemre
+- 🔎 Linkedin : https://www.linkedin.com/in/vuslat-sena-emre/
+-  
 
 ### 👩🏽‍💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -33,7 +34,7 @@ approach to solving problems, open to new opportunities.
 <h3> 📫 Connect with me</h3>
 <a href = 'https://www.linkedin.com/in/vuslat-sena-emre/'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/NightmaresTown'> <img width = 24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@vuslats'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = ' https://medium.com/@vuslatsemre'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/vuslatsena'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
