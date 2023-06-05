@@ -10,6 +10,7 @@ I am a front-end developer with a passion for creating engaging web experiences 
 - 📫 You can reach me at vuslatsena23@gmail.com.
 - If you want to hire me, please visit my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/vuslat-sena-emre/)
 ### 👩🏽‍💻 Tech Stack
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=239120)&nbsp;
