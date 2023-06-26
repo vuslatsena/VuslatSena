@@ -9,6 +9,8 @@ I am a front-end developer with a passion for creating engaging web experiences 
 - 🌱 Currently, I am working with ReactJS and expanding my knowledge in related JavaScript technologies.
 - 📫 You can reach me at vuslatsena23@gmail.com.
 - If you want to hire me, please visit my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/vuslat-sena-emre/)
+
+![](https://komarev.com/ghpvc/?username=vuslatsena)
 ### 👩🏽‍💻 Tech Stack
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
