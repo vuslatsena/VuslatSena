@@ -10,7 +10,9 @@ I am a front-end developer with a passion for creating engaging web experiences 
 - 📫 You can reach me at vuslatsena23@gmail.com.
 - If you want to hire me, please visit my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/vuslat-sena-emre/)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvuslatsena&countColor=%232ccce4&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvuslatsena)
+ <a href="https://github.com/vuslatsena/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=vuslatsena&color=000000">
+</a>
 
 ### 👩🏽‍💻 Tech Stack
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react)&nbsp; 
